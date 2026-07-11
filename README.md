@@ -1,51 +1,36 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hey, I'm Madhav Mishra
+# hey, i'm madhav mishra
 
-### Building and Breaking things 
+### building software that solves real problems.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=E63946&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;AI+Builder;Systems+Programming+Enthusiast;Always+Building+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Engineer;AI+Systems+Builder;Distributed+Systems+Enthusiast;Always+Building+Something+Interesting"/>
 
 </div>
 
 ---
 
-## about me
+```bash
+> whoami
 
-```cpp
-class Madhav {
-public:
-    string location = "India";
-    string education = "IIIT Nagpur";
-    string currently_building = "AI Systems • Backend • Product Ideas";
+madhav mishra
 
-    vector<string> interests = {
-        "Distributed Systems",
-        "Generative AI",
-        "System Design",
-        "Game Development",
-        "Low-Latency Systems"
-    };
+computer science @ iiit nagpur
 
-    void currentMission() {
-        cout << "Build things people actually use.";
-    }
-};
+interests:
+├── backend engineering
+├── ai systems
+├── distributed systems
+├── product engineering
+└── game development
+
+currently building:
+└── products that people actually use
 ```
 
 ---
 
-## what i'm working on
-
-- building **AI-native products**
-- experimenting with **multi-agent systems**
-- backend engineering with **FastAPI**, **Node.js**, and **TypeScript**
-- learning more about **distributed systems**, **cloud**, and **performance engineering**
-- turning random shower thoughts into weekend projects
-
----
-
-## tech stack
+# tech stack
 
 ### languages
 
@@ -53,92 +38,97 @@ public:
 <img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,c,cs,sql,bash"/>
 </p>
 
-### backend & databases
+### backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs,postgres,mysql,mongodb,redis,sqlite,prisma"/>
 </p>
 
-### ai & cloud
+### ai
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,gcp,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,git,github,gcp"/>
 </p>
 
-**Also work with**
+**also work with**
 
-- LangGraph
-- LangChain
-- FAISS
-- Hugging Face
-- Groq API
-- OpenAI API
-- RAG Pipelines
-- AI Agents
-
----
-
-## projects i'm proud of
-
-🚀 **TeacherJi**
-> Multi-Agent AI Learning Platform with LangGraph + RAG
-
-🎮 **GamesLog**
-> Social gaming platform with AI-powered recommendations
-
-🧠 **AI Native CRM**
-> Campaign automation powered by LLMs
-
-🎲 **TTG Engine**
-> JSON-driven educational game engine
-
-⚡ **Distributed Linux Fleet Manager**
-> Monitoring & orchestration system with Prometheus + Grafana
+- langgraph
+- langchain
+- faiss
+- huggingface
+- groq
+- openai api
+- rag
+- ai agents
 
 ---
 
-## github stats
+# featured projects
+
+### teacherji
+> multi-agent ai tutoring platform using langgraph + rag
+
+### gameslog
+> social platform for gamers with ai recommendations
+
+### ai-native crm
+> campaign automation powered by llms
+
+### ttg engine
+> json-based educational game engine
+
+### linux fleet manager
+> distributed monitoring using prometheus + grafana
+
+### low latency matching engine
+> c++20 order matching engine capable of 100m+ ops/sec
+
+---
+
+# github
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhav-gfn&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-gfn&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=madhav-gfn&theme=radical&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=madhav-gfn&theme=radical&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhav-gfn&theme=github_dark"/>
 
 </p>
 
 ---
 
-## currently listening to
+# current obsession
 
-> usually lofi, movie soundtracks or metal depending on whether my code compiles.
+- building reliable ai systems
+- distributed architecture
+- performance optimization
+- system design
+- product thinking
 
 ---
 
-## let's connect
+# connect
 
 <p align="center">
 
 <a href="https://www.madhavmishra.me">
-<img src="https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+<img src="https://img.shields.io/badge/portfolio-e63946?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/madhav-gfn">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/madhav-gfn/">
-<img src="https://img.shields.io/badge/LinkedIn-E63946?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/madhav-gfn">
+<img src="https://img.shields.io/badge/linkedin-e63946?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:madhavmishra763@gmail.com">
-<img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/email-e63946?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -147,6 +137,6 @@ public:
 
 <div align="center">
 
-### "Build Or Be forgotten."
+### *build. break. learn. repeat.*
 
 </div>
