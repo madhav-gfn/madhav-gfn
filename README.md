@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Hey, I'm Madhav Mishra
 
-### Building products • Breaking things • Learning relentlessly
+### Building and Breaking things 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=E63946&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;AI+Builder;Systems+Programming+Enthusiast;Always+Building+Something+New"/>
 
@@ -147,6 +147,6 @@ public:
 
 <div align="center">
 
-### "i build because i'm curious."
+### "Build Or Be forgotten."
 
 </div>
