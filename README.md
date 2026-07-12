@@ -137,6 +137,6 @@ currently building:
 
 <div align="center">
 
-### *build. break. learn. repeat.*
+### *Build OR Be Forgotten.*
 
 </div>
