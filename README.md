@@ -1,10 +1,9 @@
 <div align="center">
 
-# hey, i'm madhav mishra
+# MADHAV MISHRA
+### Building software that solves real problems.
 
-### building software that solves real problems.
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Backend+Engineer;AI+Systems+Builder;Distributed+Systems+Enthusiast;Always+Building+Something+Interesting"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;AI+Systems+Builder;Distributed+Systems+Enthusiast" alt="Typing Intro"/>
 
 </div>
 
@@ -14,7 +13,6 @@
 > whoami
 
 madhav mishra
-
 computer science @ iiit nagpur
 
 interests:
@@ -30,28 +28,24 @@ currently building:
 
 ---
 
-# tech stack
+## TECH STACK
 
-### languages
-
+### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,c,cs,sql,bash"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,c,cs,sql,bash"/>
 </p>
 
-### backend
-
+### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs,postgres,mysql,mongodb,redis,sqlite,prisma"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs,postgres,mysql,mongodb,redis,sqlite,prisma"/>
 </p>
 
-### ai
-
+### AI + Tools
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,git,github,gcp"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,git,github,gcp"/>
 </p>
 
-**also work with**
-
+Also work with:
 - langgraph
 - langchain
 - faiss
@@ -63,45 +57,45 @@ currently building:
 
 ---
 
-# featured projects
+## FEATURED PROJECTS
 
 ### teacherji
-> multi-agent ai tutoring platform using langgraph + rag
+Multi-agent AI tutoring platform using LangGraph + RAG
 
 ### gameslog
-> social platform for gamers with ai recommendations
+Social platform for gamers with AI recommendations
 
 ### ai-native crm
-> campaign automation powered by llms
+Campaign automation powered by LLMs
 
 ### ttg engine
-> json-based educational game engine
+JSON-based educational game engine
 
 ### linux fleet manager
-> distributed monitoring using prometheus + grafana
+Distributed monitoring using Prometheus + Grafana
 
 ### low latency matching engine
-> c++20 order matching engine capable of 100m+ ops/sec
+C++20 order matching engine capable of 100M+ ops/sec
 
 ---
 
-# github
+## GITHUB METRICS
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=madhav-gfn&theme=radical&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=madhav-gfn&theme=dark&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=E63946&dates=E63946" alt="GitHub Streak"/>
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhav-gfn&show_icons=true&hide_border=true&title_color=E63946&icon_color=E63946&text_color=E63946&bg_color=00000000&rank_icon=github" alt="GitHub Stats"/>
 
-<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-gfn&layout=compact&hide_border=true&title_color=E63946&text_color=E63946&bg_color=00000000" alt="Top Languages"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhav-gfn&theme=github_dark"/>
+</div>
 
-</p>
+> The **Top Languages** card is the best GitHub-profile way to show how much code is written per language.
 
 ---
 
-# current obsession
+## CURRENT FOCUS
 
 - building reliable ai systems
 - distributed architecture
@@ -111,32 +105,27 @@ currently building:
 
 ---
 
-# connect
+## CONNECT
 
 <p align="center">
-
-<a href="https://www.madhavmishra.me">
-<img src="https://img.shields.io/badge/portfolio-e63946?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/madhav-gfn">
-<img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/madhav-gfn">
-<img src="https://img.shields.io/badge/linkedin-e63946?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:madhavmishra763@gmail.com">
-<img src="https://img.shields.io/badge/email-e63946?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.madhavmishra.me">
+    <img src="https://img.shields.io/badge/PORTFOLIO-E63946?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/madhav-gfn">
+    <img src="https://img.shields.io/badge/GITHUB-E63946?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/madhav-gfn">
+    <img src="https://img.shields.io/badge/LINKEDIN-E63946?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:madhavmishra763@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-E63946?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <div align="center">
 
-### *Build OR Be Forgotten.*
+### BUILD OR BE FORGOTTEN
 
 </div>
