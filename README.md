@@ -3,7 +3,7 @@
 # MADHAV MISHRA
 ### Building software that solves real problems.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=E63946&center=true&vCenter=true&width=820&lines=Full+Stack+Developer;Backend+Engineer;AI+Systems+Builder;Distributed+Systems+Engineer;Product+Focused+Developer" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=E63946&center=true&vCenter=true&width=820&lines=Full+Stack+Developer;Backend+Engineer;AI+Systems+Builder;Distributed+Systems+Enthusiast;Shipping+products+that+people+use" alt="Typing intro" />
 
 </div>
 
@@ -59,57 +59,45 @@ currently building:
 
 ## FEATURED PROJECTS
 
-### teacherji
-Multi-agent AI tutoring platform using LangGraph + RAG
-
-### gameslog
-Social platform for gamers with AI recommendations
-
-### ai-native crm
-Campaign automation powered by LLMs
-
-### ttg engine
-JSON-based educational game engine
-
-### linux fleet manager
-Distributed monitoring using Prometheus + Grafana
-
-### low latency matching engine
-C++20 order matching engine capable of 100M+ ops/sec
+- [**TeacherJi**](https://github.com/madhav-gfn/teacher_ji) — Retrieval-augmented, multi-agent NCERT tutoring platform with quizzes and grounded feedback.
+- [**GameLog**](https://github.com/madhav-gfn/GameLog) — Social gaming journal + backlog tracking + AI recommendations.
+- [**Saucer AI (AI-native CRM)**](https://github.com/madhav-gfn/Basic-AI-Based-CRM) — Campaign automation across WhatsApp, SMS, Email, and RCS.
+- [**TTG Engine**](https://github.com/madhav-gfn/TTGEngine) — JSON-driven educational game engine (React + TS + Express + SQLite).
+- [**Linux Fleet Management System**](https://github.com/madhav-gfn/Linux-Fleet-Management_System) — Distributed monitoring using SSH + Prometheus + Grafana.
+- [**OrderBookSimulator**](https://github.com/madhav-gfn/OrderBookSimulator) — High-performance C++ matching engine (price-time priority).
+- [**AI Code Reviewer (Agentic PR Review)**](https://github.com/madhav-gfn/AI_code_review) — Multi-agent LLM reviewer with structured line-level feedback.
+- [**AI CSV Importer**](https://github.com/madhav-gfn/ai-csv-importer) — Schema-mapping CSV importer for CRM pipelines.
 
 ---
 
 ## GITHUB ANALYTICS
 
 <div align="center">
-
-<!-- More reliable than many github-readme-stats setups -->
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhav-gfn&theme=github_dark" alt="GitHub stats" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhav-gfn&theme=github_dark" alt="Most commit language" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhav-gfn&theme=github_dark" alt="Repos per language" />
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhav-gfn&theme=github_dark&utcOffset=5.5" alt="Productive time" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=madhav-gfn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-gfn&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=madhav-gfn&theme=dark&hide_border=true&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=E63946&dates=E63946" alt="GitHub streak" />
-
+  <img height="170" src="https://streak-stats.demolab.com?user=madhav-gfn&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhav-gfn&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
 </div>
 
-> Language distribution is shown in:
-> - **Most Commit Language**
-> - **Repos Per Language**
+<div align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhav-gfn&theme=tokyonight" alt="Profile details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=madhav-gfn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+</div>
 
 ---
 
-## CURRENT OBSESSION
+## QUICK STATS SNAPSHOT
 
-- building reliable ai systems
-- distributed architecture
-- performance optimization
-- system design
-- product thinking
+- 🚀 Building in: **AI systems, full-stack apps, distributed backends**
+- 🧠 Focus areas: **performance, system design, product thinking**
+- 🛠️ Preferred stack: **TypeScript / Python / C++ + PostgreSQL + Docker**
+- 🎯 Goal: **ship fast, measurable, user-loved products**
 
 ---
 
