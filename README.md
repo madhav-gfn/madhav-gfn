@@ -108,7 +108,7 @@ The rest of my time goes to graphics and game programming, which is what the HCI
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/madhav-gfn/madhav-gfn/main/assets/stats.svg" width="100%" alt="Language distribution across 38 public repositories" />
+<img src="https://raw.githubusercontent.com/madhav-gfn/madhav-gfn/main/assets/stats.svg?v=2" width="100%" alt="Language distribution across 38 public repositories" />
 
 <br/>
 
