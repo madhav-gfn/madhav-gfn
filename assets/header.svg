@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Madhav Mishra, backend and AI systems">
+  <defs>
+    <radialGradient id="glow" cx="12%" cy="10%" r="70%">
+      <stop offset="0%" stop-color="#E63946" stop-opacity="0.22"/>
+      <stop offset="55%" stop-color="#E63946" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#E63946" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E63946" stop-opacity="0.85"/>
+      <stop offset="45%" stop-color="#E63946" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#E63946" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E63946" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#E63946" stop-opacity="0.06"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: ui-monospace, "SFMono-Regular", "JetBrains Mono", Menlo, Consolas, monospace; }
+      .name { font-size: 50px; font-weight: 700; letter-spacing: 4px; fill: #E63946; }
+      .role { font-size: 18px; font-weight: 500; letter-spacing: 1.5px; fill: #E63946; fill-opacity: 0.72; }
+      .meta { font-size: 13px; letter-spacing: 1.2px; fill: #E63946; fill-opacity: 0.52; }
+      .tick { font-size: 11px; letter-spacing: 2px; fill: #E63946; fill-opacity: 0.30; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="248" rx="14" fill="none" stroke="url(#frame)" stroke-width="1.5"/>
+  <rect x="1" y="1" width="998" height="248" rx="14" fill="url(#glow)"/>
+
+  <g>
+    <rect x="48" y="46" width="4" height="26" fill="#E63946" fill-opacity="0.9">
+      <animate attributeName="fill-opacity" values="0.9;0.25;0.9" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+    <text class="mono tick" x="66" y="65">GITHUB.COM/MADHAV-GFN</text>
+  </g>
+
+  <g transform="translate(700,44)">
+    <rect x="0"   y="0" width="14" height="14" rx="2" fill="#E63946" fill-opacity="0.06"/>
+    <rect x="22"  y="0" width="14" height="14" rx="2" fill="#E63946" fill-opacity="0.12"/>
+    <rect x="44"  y="0" width="14" height="14" rx="2" fill="#E63946" fill-opacity="0.20"/>
+    <rect x="66"  y="0" width="14" height="14" rx="2" fill="#E63946" fill-opacity="0.30"/>
+    <rect x="88"  y="0" width="14" height="14" rx="2" fill="#E63946" fill-opacity="0.42"/>
+    <rect x="110" y="0" width="14" height="14" rx="2" fill="#E63946" fill-opacity="0.55"/>
+    <rect x="132" y="0" width="14" height="14" rx="2" fill="#E63946" fill-opacity="0.70"/>
+    <rect x="154" y="0" width="14" height="14" rx="2" fill="#E63946" fill-opacity="0.85"/>
+    <rect x="176" y="0" width="14" height="14" rx="2" fill="#E63946" fill-opacity="1">
+      <animate attributeName="fill-opacity" values="1;0.35;1" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="198" y="0" width="14" height="14" rx="2" fill="#E63946" fill-opacity="0.85"/>
+    <rect x="220" y="0" width="14" height="14" rx="2" fill="#E63946" fill-opacity="0.55"/>
+    <rect x="242" y="0" width="14" height="14" rx="2" fill="#E63946" fill-opacity="0.20"/>
+  </g>
+
+  <text class="mono name" x="46" y="132">MADHAV MISHRA</text>
+
+  <rect x="48" y="152" width="904" height="1.5" fill="url(#rule)"/>
+
+  <text class="mono role" x="48" y="186">backend systems, applied AI, performance work</text>
+  <text class="mono meta" x="48" y="214">IIIT NAGPUR / CSE (HCI &amp; GAMING TECH) / 2023-2027 / NAGPUR, IN</text>
+</svg>
