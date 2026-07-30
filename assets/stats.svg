@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Language distribution and repository stats">
+  <defs>
+    <linearGradient id="sframe" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E63946" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#E63946" stop-opacity="0.06"/>
+    </linearGradient>
+    <style>
+      .m { font-family: ui-monospace, "SFMono-Regular", "JetBrains Mono", Menlo, Consolas, monospace; }
+      .h  { font-size: 12px; letter-spacing: 2.5px; fill: #E63946; fill-opacity: 0.55; }
+      .lg { font-size: 12.5px; letter-spacing: 0.5px; fill: #E63946; fill-opacity: 0.80; }
+      .pc { font-size: 12.5px; fill: #E63946; fill-opacity: 0.40; }
+      .big{ font-size: 30px; font-weight: 700; fill: #E63946; }
+      .cap{ font-size: 10.5px; letter-spacing: 2px; fill: #E63946; fill-opacity: 0.45; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="248" rx="14" fill="none" stroke="url(#sframe)" stroke-width="1.5"/>
+
+  <text class="m h" x="48" y="44">LANGUAGE DISTRIBUTION / 38 PUBLIC REPOS</text>
+
+  <g>
+    <rect x="48"     y="62" width="112.5" height="22" rx="3" fill="#E63946" fill-opacity="1.00"/>
+    <rect x="160.5"  y="62" width="112.5" height="22"        fill="#E63946" fill-opacity="0.86"/>
+    <rect x="273"    y="62" width="112.5" height="22"        fill="#E63946" fill-opacity="0.72"/>
+    <rect x="385.5"  y="62" width="75"    height="22"        fill="#E63946" fill-opacity="0.58"/>
+    <rect x="460.5"  y="62" width="56.25" height="22"        fill="#E63946" fill-opacity="0.46"/>
+    <rect x="516.75" y="62" width="56.25" height="22"        fill="#E63946" fill-opacity="0.36"/>
+    <rect x="573"    y="62" width="37.5"  height="22"        fill="#E63946" fill-opacity="0.26"/>
+    <rect x="610.5"  y="62" width="18.75" height="22"        fill="#E63946" fill-opacity="0.18"/>
+    <rect x="629.25" y="62" width="18.75" height="22" rx="3"  fill="#E63946" fill-opacity="0.11"/>
+  </g>
+
+  <g>
+    <rect x="48" y="115" width="9" height="9" rx="1.5" fill="#E63946" fill-opacity="1.00"/>
+    <text class="m lg" x="65" y="124">Python</text><text class="m pc" x="150" y="124">18.8%</text>
+
+    <rect x="48" y="145" width="9" height="9" rx="1.5" fill="#E63946" fill-opacity="0.86"/>
+    <text class="m lg" x="65" y="154">C++</text><text class="m pc" x="150" y="154">18.8%</text>
+
+    <rect x="48" y="175" width="9" height="9" rx="1.5" fill="#E63946" fill-opacity="0.72"/>
+    <text class="m lg" x="65" y="184">JavaScript</text><text class="m pc" x="150" y="184">18.8%</text>
+
+    <rect x="235" y="115" width="9" height="9" rx="1.5" fill="#E63946" fill-opacity="0.58"/>
+    <text class="m lg" x="252" y="124">Notebooks</text><text class="m pc" x="352" y="124">12.5%</text>
+
+    <rect x="235" y="145" width="9" height="9" rx="1.5" fill="#E63946" fill-opacity="0.46"/>
+    <text class="m lg" x="252" y="154">TypeScript</text><text class="m pc" x="352" y="154">9.4%</text>
+
+    <rect x="235" y="175" width="9" height="9" rx="1.5" fill="#E63946" fill-opacity="0.36"/>
+    <text class="m lg" x="252" y="184">C</text><text class="m pc" x="352" y="184">9.4%</text>
+
+    <rect x="437" y="115" width="9" height="9" rx="1.5" fill="#E63946" fill-opacity="0.26"/>
+    <text class="m lg" x="454" y="124">HTML</text><text class="m pc" x="545" y="124">6.3%</text>
+
+    <rect x="437" y="145" width="9" height="9" rx="1.5" fill="#E63946" fill-opacity="0.18"/>
+    <text class="m lg" x="454" y="154">Dart</text><text class="m pc" x="545" y="154">3.1%</text>
+
+    <rect x="437" y="175" width="9" height="9" rx="1.5" fill="#E63946" fill-opacity="0.11"/>
+    <text class="m lg" x="454" y="184">C#</text><text class="m pc" x="545" y="184">3.1%</text>
+  </g>
+
+  <rect x="700" y="38" width="1.5" height="190" fill="#E63946" fill-opacity="0.18"/>
+
+  <g>
+    <text class="m big" x="740" y="74">9</text>
+    <text class="m cap" x="740" y="92">LANGUAGES SHIPPED</text>
+
+    <text class="m big" x="740" y="142">38</text>
+    <text class="m cap" x="740" y="160">PUBLIC REPOSITORIES</text>
+
+    <text class="m big" x="740" y="210">2023</text>
+    <text class="m cap" x="740" y="228">BUILDING HERE SINCE</text>
+  </g>
+</svg>
